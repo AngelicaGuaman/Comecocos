@@ -1,0 +1,17 @@
+			Proyecto Comecocos
+
+Instrucciones del juego.
+
+ARRIBA    (w)
+ABAJO     (s)
+IZQUIERDA (a)
+DERECHA   (d)
+
+Puntaje del juego.
+
+El pacman tiene 3 vidas.
+Si un fantasma topa al pacman disminuirA 1 vida.
+Si el pacman se come todos los cocos ganarA el juego.
+Si consigue un record despuEs de haberse comido todos los cocos 
+o antes de que pierda se le preguntarA el nombre para apuntarlo 
+en la tabla de records, con el puntaje que ha conseguido.
